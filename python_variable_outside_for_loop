@@ -1,0 +1,5 @@
+# i を表記
+for i in range(10):
+  print(i)
+# Outside for loop syntax, check whether the variable in for loop keeps the value.
+print(f"{i=}")
